@@ -1,0 +1,25 @@
+{
+  "name": "bukalapak",
+  "version": "1.0.0",
+  "description": "createbukalapak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehroy/bukalapak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehroy/bukalapak/issues"
+  },
+  "homepage": "https://github.com/ehroy/bukalapak#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^2.6.1",
+    "node-random-name": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
